@@ -22,7 +22,7 @@ body {
 
 .note {
   width: 200px;
-  height: 200px;
+  height: 150px;
   border: 0.5px solid #0000005f;
   display: flex;
   flex-direction: column;
@@ -45,7 +45,7 @@ body {
 
 .purple {
   background-color: #b4b3d0;
-  transform: rotate(-6deg);
+  transform: rotate(-7deg);
 }
 .note h2 {
   font-size: 2rem;
